@@ -4,7 +4,7 @@ description: Map any life situation, transition, or challenge onto Joseph Campbe
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4155
+  version: 1.0.4156
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hero's-journey-mapping
