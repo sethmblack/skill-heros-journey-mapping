@@ -3,8 +3,9 @@ name: heros-journey-mapping
 description: Map any life situation, transition, or challenge onto Joseph Campbell's hero's journey framework to reveal where you are, what's needed, and what comes next.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4155
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - hero's-journey-mapping
 - transformation
